@@ -1,8 +1,17 @@
 # Colorado Coin (COLO)
 
-An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/).
+An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/)
+
 
 <img src='img/coin.png'>
+
+# How it works.
+
+ColoradoCoins can be printed, and then affixed with a QR Code that represents the private key (and a small amount of ETH for transfering them) via a (YouveGotETH)[https://youvegoteth.github.io] link.
+
+Here's what they look like:
+
+<img src='img/coloradocoin_build1.gif'/>
 
 # Deployed Addresses
 
@@ -11,8 +20,14 @@ An experimental ERC20 token for organizating local communities.  Dogfooded at [B
 
 # Distribution
 
-Right now, there are XXXX coins.  As tokens are minted, this read me will be updated.
+Right now, there are 100 coins.  As tokens are minted, this read me will be updated.
 
 The distribution as follows is:
 
-* XXXX coins: 
+* 90 coins: HODL'd by @owocki, planning to distribute at community events.
+* 10 coins: distributed to community on 9/6 Boulder Blockchain.
+
+# Legal Stuff
+
+These coins are just given out for fun.  They are never sold for money, fiat or otherwise.
+
