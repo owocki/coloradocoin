@@ -4,8 +4,6 @@ An experimental ERC20 token for organizating local communities.  Dogfooded at [B
 
 <img src='img/coin.png'>
 
-<img src='https://secure.meetupstatic.com/photos/event/d/8/1/d/global_462715325.jpeg'>
-
 # Deployed Addresses
 
 * Mainnet: [TODO](https://etherscan.io/address/TODO)
