@@ -1,4 +1,4 @@
-var amount = 100; // amount is in wei
+var amount = 100 * 1000; // 100 tokens
 //mainnet
 var contract_address = '0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc';
 //ropsten
