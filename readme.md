@@ -1,13 +1,18 @@
-# Colorado Coin (COLO)
+# Colorado Coin (COLO) - A physical CryptoCoin
 
 An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/)
-
 
 <img src='img/coin.png'>
 
 # How it works.
 
-ColoradoCoins can be printed, and then affixed with a QR Code that represents the private key (and a small amount of ETH for transfering them) via a [YouveGotETH](https://youvegoteth.github.io) link.
+ColoradoCoins can be physically created by 
+
+1. printing the above image.
+2. `mint()`ing some coins (see below) and placing them into a [YouveGotETH](https://youvegoteth.github.io) QR Code.
+3. physically affixing the ColoradoCoin image to 
+
+The QR Code that represents the private key (and a small amount of ETH for transfering them) via a [YouveGotETH](https://youvegoteth.github.io) link.
 
 Here's what they look like:
 
