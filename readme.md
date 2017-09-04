@@ -1,4 +1,4 @@
-# Colorado Coin (COLO) - A physical CryptoCoin
+# Colorado Coin (COLO) - A Corporeal CryptoCoin
 
 An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/)
 
