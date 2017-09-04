@@ -10,7 +10,7 @@ ColoradoCoins can be physically created by
 
 1. printing the above image.
 2. `mint()`ing some coins (see below) and placing them into a [YouveGotETH](https://youvegoteth.github.io) QR Code.
-3. physically affixing the ColoradoCoin image to 
+3. physically affixing the ColoradoCoin image to the sticker printed in #1.
 
 The QR Code that represents the private key (and a small amount of ETH for transfering them) via a [YouveGotETH](https://youvegoteth.github.io) link.
 
@@ -49,4 +49,9 @@ As tokens are minted, this read me will be updated.  If you're not the trusting 
 # Legal Stuff
 
 These tokens are just given out for fun.  They are never sold for money, fiat or otherwise.  They have no exchange value, and the creators are not liable for their use or exchange.  For more information, see the liscense.txt file in this repository.
+
+
+
+<!-- Google Analytics -->
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/coloradocoin' style='width:1px; height:1px;' >
 
