@@ -25,14 +25,19 @@ And here's what the 'receive' interface looks like:
 
 # Token Distribution
 
-Right now, there are 100 tokens on the mainnet.  As tokens are minted, this read me will be updated.  If you're not the trusting type (and hey, you shouldn't be since we're in a trustless ecosystem), check the deployed contracts above for "mint" events or "mint" transactions.
+Right now, there are 100 tokens on the mainnet.  
 
 The tokens distribution as follows is:
 
 * 90 tokens: HODL'd by @owocki, planning to distribute at community events.
 * 10 tokens: distributed to community on 9/6 Boulder Blockchain.
 
-## Changelog
+## Process for minting new tokens
+
+As tokens are minted, this read me will be updated.  If you're not the trusting type (and hey, you shouldn't be since we're in a trustless ecosystem), check the deployed contracts above for "mint" events or "mint" transactions.
+
+
+## Token Distribution Changelog
 
 * 9/4/2017 - Minted 100 tokens for demo purposes.
 
