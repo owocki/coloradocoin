@@ -1,8 +1,8 @@
 var amount = 100; // amount is in wei
 //mainnet
-var contract_address = '';
-//ropsten
 var contract_address = '0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc';
+//ropsten
+//var contract_address = '0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc';
 var to_address = '0xe93d33CF8AaF56C64D23b5b248919EabD8c3c41E';
 
 var cc = ColoradoCoin.at(contract_address);

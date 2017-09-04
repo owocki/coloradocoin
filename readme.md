@@ -6,7 +6,7 @@ An experimental ERC20 token for organizating local communities.  Dogfooded at [B
 
 # Deployed Addresses
 
-* Mainnet: [TODO](https://etherscan.io/address/TODO)
+* Mainnet: [0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc](https://etherscan.io/address/0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc)
 * Ropsten: [0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc](https://ropsten.etherscan.io/address/0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc)
 
 # Distribution
