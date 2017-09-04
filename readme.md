@@ -18,7 +18,9 @@ Here's what they look like:
 
 <img src='img/coloradocoin_build1.gif'/>
 
-And here's what the 'receive' interface looks like:
+I'm aware the build quality needs improvement.  This is a v0.  (If you know anyone who could up the build quality, please [contact me on twitter](http://twitter.com/owocki)).
+
+Anywho, here's what the 'receive' interface looks like:
 
 <img src='img/receive.gif'/>
 
@@ -45,6 +47,13 @@ As tokens are minted, this read me will be updated.  If you're not the trusting 
 ## Token Distribution Changelog
 
 * 9/4/2017 - Minted 100 tokens for demo purposes.
+
+
+# Misc Links
+
+* [YouveGotETH Repo](https://github.com/youvegoteth/youvegoteth.github.io/)
+* [Turn Friends into Advocatges with ERC20 Token Giveaways](https://owocki.com/turns-friends-token-advocates-w-erc20-giveaways/)
+* [Blockchain StartupCTO.io Episodes](https://owocki.com/blockchain-startupcto-io-podcast-episodes/)
 
 # Legal Stuff
 
