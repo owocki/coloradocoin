@@ -36,8 +36,8 @@ Right now, there are 100 tokens on the mainnet.
 
 The tokens distribution as follows is:
 
-* 90 tokens: HODL'd by @owocki, planning to distribute at community events.
 * 10 tokens: distributed to community on 9/6 Boulder Blockchain.
+* 90 tokens: Planning to distribute to Boulder Blockchain community at a future date.
 
 ## Process for minting new tokens
 
