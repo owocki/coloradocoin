@@ -1,6 +1,8 @@
 # Colorado Coin (COLO) - A Corporeal CryptoCoin
 
-An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/)
+An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/) (and hopefully more Colorad-based meetups soon!)
+
+Credit for the idea goes to [Paul Foley](http://paulnicholasfoley.com/), [Rhys Lindmark](https://twitter.com/RhysLindmark), [Kevin Seagraves](https://www.linkedin.com/in/kevinseagraves).  This concept is meant to be by & for the community, and this repo is just one of the many possible implementations of it.
 
 <img src='img/coin.png'>
 
