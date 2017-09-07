@@ -2,7 +2,7 @@
 
 An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/) (and hopefully more Colorad-based meetups soon!)
 
-Credit for the idea goes to [Paul Foley](http://paulnicholasfoley.com/), [Rhys Lindmark](https://twitter.com/RhysLindmark), [Kevin Seagraves](https://www.linkedin.com/in/kevinseagraves).  This concept is meant to be by & for the community, and this repo is just one of the many possible implementations of it.
+Credit for the idea goes to [Paul Foley](http://paulnicholasfoley.com/), [Rhys Lindmark](https://twitter.com/RhysLindmark), [Kevin Seagraves](https://www.linkedin.com/in/kevinseagraves).  This concept is meant to be by & for the community, and this repo is just one of the many possible implementations of it.   Hat tip [Jonathan Palmer](https://twitter.com/redzebra) for helping with laser cutting / printing.
 
 <img src='img/coin.png'>
 
@@ -18,7 +18,7 @@ The QR Code that represents the private key (and a small amount of ETH for trans
 
 Here's what they look like:
 
-<img src='img/coloradocoin_build1.gif'/>
+<img src='img/coloradocoin_build2.gif'/>
 
 I'm aware the build quality needs improvement.  This is a v0.  (If you know anyone who could up the build quality, please [contact me on twitter](http://twitter.com/owocki)).
 
