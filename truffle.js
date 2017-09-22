@@ -7,15 +7,13 @@ var Web3 = require("web3");
 
 // Get our mnemonic and create an hdwallet
 
-//include memonic.js here
-var hdwallet = hdkey.fromMasterSeed(bip39.mnemonicToSeed(mnemonic));
+var mnemonic = require('./mnemonic.js');
+var hdwallet = hdkey.fromMasterSeed(bip39.mnemonicToSeed(mnemonic.mnemonic()));
 
 // Get the first account using the standard hd path.
 var wallet_hdpath = "m/44'/60'/0'/0/";
 var wallet = hdwallet.derivePath(wallet_hdpath + "0").getWallet();
 var address = "0x" + wallet.getAddress().toString("hex");
-
-console.log(address);
 
 var providerUrl = "https://testnet.infura.io";
 var testnet_engine = new ProviderEngine();
