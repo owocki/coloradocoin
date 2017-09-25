@@ -1,3 +1,8 @@
+<a href="https://gitcoin.co/explorer/?q=https://github.com/owocki/coloradocoin/" title=”Push Open Source Forward”>
+    <img src='https://gitcoin.co/static/v2/images/promo_buttons/slice_01.png' alt=’Browse Gitcoin Bounties’/>
+</a>
+
+
 # Colorado Coin (COLO) - A Corporeal CryptoCoin
 
 An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/) (and hopefully more Colorad-based meetups soon!)
