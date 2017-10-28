@@ -11,6 +11,8 @@ Credit for the idea goes to [Paul Foley](http://paulnicholasfoley.com/), [Rhys L
 
 <img src='img/coin.png'>
 
+<img src='https://user-images.githubusercontent.com/513929/32136966-d2ec7722-bbd4-11e7-9d3b-028e589157d2.jpg'>
+
 # How it works.
 
 ColoradoCoins can be physically created by 
