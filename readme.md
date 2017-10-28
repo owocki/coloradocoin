@@ -11,8 +11,6 @@ Credit for the idea goes to [Paul Foley](http://paulnicholasfoley.com/), [Rhys L
 
 <img src='img/coin.png'>
 
-<img src='https://user-images.githubusercontent.com/513929/32136966-d2ec7722-bbd4-11e7-9d3b-028e589157d2.jpg'>
-
 # How it works.
 
 ColoradoCoins can be physically created by 
@@ -26,6 +24,7 @@ The QR Code that represents the private key (and a small amount of ETH for trans
 Here's what they look like:
 
 <img src='img/coloradocoin_build2.gif'/>
+<img src='https://user-images.githubusercontent.com/513929/32136966-d2ec7722-bbd4-11e7-9d3b-028e589157d2.jpg'>
 
 I'm aware the build quality needs improvement.  This is a v0.  (If you know anyone who could up the build quality, please [contact me on twitter](http://twitter.com/owocki)).
 
