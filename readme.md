@@ -34,12 +34,11 @@ Anywho, here's what the 'receive' interface looks like:
 
 # Token Distribution
 
-Right now, there are 100 tokens on the mainnet.  
+Right now, there are 400 tokens on the mainnet.  
 
 The tokens distribution as follows is:
 
-* 10 tokens: distributed to community on 9/6 Boulder Blockchain.
-* 90 tokens: Planning to distribute to Boulder Blockchain community at a future date.
+* 400 tokens: ETHDenver hackathon
 
 ## Process for minting new tokens
 
@@ -48,6 +47,7 @@ As tokens are minted, this read me will be updated.  If you're not the trusting 
 
 ## Token Distribution Changelog
 
+* 12/28/2017 - Minted 100 tokens for demo purposes.
 * 9/4/2017 - Minted 100 tokens for demo purposes.
 
 
