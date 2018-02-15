@@ -14,6 +14,7 @@ var hdwallet = hdkey.fromMasterSeed(bip39.mnemonicToSeed(mnemonic.mnemonic()));
 var wallet_hdpath = "m/44'/60'/0'/0/";
 var wallet = hdwallet.derivePath(wallet_hdpath + "0").getWallet();
 var address = "0x" + wallet.getAddress().toString("hex");
+console.log(address);
 
 var providerUrl = "https://testnet.infura.io";
 var testnet_engine = new ProviderEngine();
@@ -42,7 +43,8 @@ module.exports = {
       provider: mainnet_engine, // Use our custom provider
       from: address,     // Use the address we derived
       //gasPrice: '0x13AB6680' , /// 33
-      gasPrice: '0x2756CD00' , /// 66
+      //gasPrice: '0x2756CD00' , /// 66
+      gasPrice: '0x77359400' , /// 200
     },
     development: {
       host: "localhost",
