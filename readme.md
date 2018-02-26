@@ -4,7 +4,7 @@
 
 UPDATE - 2018/02 - [Read about ColoradoCoin at ETHDenver](https://medium.com/gitcoin/colorado-coin-2fd9a52a88b6)
 
-# Colorado Coin (COLO) - A Corporeal CryptoCoin
+# Colorado Coin (COLO) - [A SolidCoin](http://solidcoin.co/)
 
 An experimental ERC20 token for organizating local communities.  Dogfooded at [Boulder Blockchain](https://www.meetup.com/Boulder-Blockchain/) (and hopefully more Colorad-based meetups soon!)
 
