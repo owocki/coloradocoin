@@ -2,6 +2,7 @@
     <img src='https://gitcoin.co/static/v2/images/promo_buttons/slice_01.png' alt=’Browse Gitcoin Bounties’ width=267px height=52px/>
 </a>
 
+UPDATE - 2018/02 - [Read about ColoradoCoin at ETHDenver](https://medium.com/gitcoin/colorado-coin-2fd9a52a88b6)
 
 # Colorado Coin (COLO) - A Corporeal CryptoCoin
 
