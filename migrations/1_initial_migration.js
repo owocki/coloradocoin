@@ -1,5 +1,5 @@
 var Migrations = artifacts.require("./Migrations.sol");
-
-module.exports = function (deployer) {
-    deployer.deploy(Migrations);
+console.log("deploy 1");
+module.exports = function(deployer) {
+  deployer.deploy(Migrations);
 };
